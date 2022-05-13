@@ -1,13 +1,15 @@
-- 👋 Hi, I’m Cristian Ibarra-Villegas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hi 👋, I'm Cristian Ibarra-Villegas</h1>
+<h3 align="center">Data Scientist | Machine Learning</h3>
 
-<!---
-CrisIV/CrisIV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I want to learn **Docker and Heroku better**
+
+- 👨‍💻 All of my projects are available at [____________________](____________________)
+
+- 📫 How to reach me **cristianibarravillegas@gmail.com**
+
+- 📄 Know about my experiences [--------------------](--------------------)
+
+- ⚡ Fun fact **I play Magic The Gathering once a week**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
