@@ -3,11 +3,7 @@
 
 - 🌱 I want to learn **Docker and Heroku better**
 
-- 👨‍💻 All of my projects are available at [____________________](____________________)
-
 - 📫 How to reach me **cristianibarravillegas@gmail.com**
-
-- 📄 Know about my experiences [--------------------](--------------------)
 
 - ⚡ Fun fact **I play Magic The Gathering once a week**
 
